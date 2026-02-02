@@ -1,1 +1,1 @@
-# terraform-modules-aws-lambda-cognito-link-federated-user
+# AWS Lambda Cognito Link Federated User Terraform Module
